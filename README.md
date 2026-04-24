@@ -106,3 +106,5 @@ Data Cleaning & Transformation
 Data Modeling
 DAX Measures
 Data Visualization# Spotify-Analysis-Dashboard
+
+![dashboard preview].(https://github.com/Abhipatil0065/Spotify-Analysis-Dashboard/blob/main/spotify%20Analysis.png).
