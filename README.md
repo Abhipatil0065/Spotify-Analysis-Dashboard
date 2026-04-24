@@ -107,4 +107,4 @@ Data Modeling
 DAX Measures
 Data Visualization# Spotify-Analysis-Dashboard
 
-![Dashboard priview](https://github.com/Abhipatil0065/Bank-Chrun-Analysis/blob/main/Bank%20chrun%20analysis%20project.png)
+![Dashboard priview](https://github.com/Abhipatil0065/Spotify-Analysis-Dashboard/blob/main/spotify%20Analysis.png)
